@@ -1,0 +1,7 @@
+No for, eu coloco que a contagem inicia em 1 e vai
+ate o numero nao chegar em = ao valor '100', e dentro
+deste for, existe uma sequencia de ifs:
+- para cada multiplo de 3, imprime "Foo", ao inves do numero;
+- para cada multiplo de 5, imprime "Baa", ao inves do numero;
+- para cada multiplo de 3 e de 5 simultaneamente, imprime
+"FooBaa", ao inves do numero;
